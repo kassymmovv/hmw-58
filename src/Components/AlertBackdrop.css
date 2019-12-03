@@ -1,0 +1,28 @@
+.success{
+    background: green;
+    width: 600px;
+    margin: 0 auto;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.warning{
+    background: red;
+    width: 600px;
+    margin: 0 auto;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    border: none;
+    background: none;
+    padding-bottom: 18px;
+    padding-right: 15px;
+}
